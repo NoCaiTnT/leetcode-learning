@@ -46,3 +46,4 @@
 2. [用队列实现栈](5.栈与队列/2.用队列实现栈.md) --- leetcode 225 <font color="green">【1个队列】</font>
 3. [有效的括号](5.栈与队列/3.有效的括号.md) --- leetcode 20
 4. [删除字符串中的所有相邻重复项](5.栈与队列/4.删除字符串中的所有相邻重复项.md) --- leetcode 1047
+5. [逆波兰表达式求值](5.栈与队列/5.逆波兰表达式求值.md) --- leetcode 150 <font color="green">【stoi atoi】</font>
