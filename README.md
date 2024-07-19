@@ -47,3 +47,4 @@
 3. [有效的括号](5.栈与队列/3.有效的括号.md) --- leetcode 20
 4. [删除字符串中的所有相邻重复项](5.栈与队列/4.删除字符串中的所有相邻重复项.md) --- leetcode 1047
 5. [逆波兰表达式求值](5.栈与队列/5.逆波兰表达式求值.md) --- leetcode 150 <font color="green">【stoi atoi】</font>
+6. [滑动窗口最大值](5.栈与队列/6.滑动窗口最大值.md) --- leetcode 239 <font color="red">【重要】</font><font color="green">【单调队列】</font>
