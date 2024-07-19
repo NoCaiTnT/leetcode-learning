@@ -42,4 +42,5 @@
 7. [重复的子字符串](4.字符串/7.重复的子字符串.md) --- leetcode 459 <font color="red">【重要】</font>
 
 ## 栈与队列
-1. [用栈实现队列](5.栈与队列/1.用栈实现队列.md) --- leetcode 232
+1. [用栈实现队列](5.栈与队列/1.用栈实现队列.md) --- leetcode 232 <font color="green">【2个栈】</font>
+2. [用队列实现栈](5.栈与队列/2.用队列实现栈.md) --- leetcode 225 <font color="green">【1个队列】</font>
