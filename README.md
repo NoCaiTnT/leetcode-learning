@@ -44,3 +44,4 @@
 ## 栈与队列
 1. [用栈实现队列](5.栈与队列/1.用栈实现队列.md) --- leetcode 232 <font color="green">【2个栈】</font>
 2. [用队列实现栈](5.栈与队列/2.用队列实现栈.md) --- leetcode 225 <font color="green">【1个队列】</font>
+3. [有效的括号](5.栈与队列/3.有效的括号.md) --- leetcode 20
