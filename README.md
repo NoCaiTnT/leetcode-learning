@@ -88,3 +88,8 @@
             ```
         - 维持一个大小为k的优先级队列, 使用小顶堆: priority_queue<pair<int,int>, vector<pair<int,int>>, valueCmp> pq;
         - 遍历map, 返回优先级队列的内容
+
+## 二叉树
+1. [二叉树的前序遍历](6.二叉树/1.二叉树的前序遍历.md) --- leetcode 144
+2. [二叉树的中序遍历](6.二叉树/2.二叉树的中序遍历.md) --- leetcode 94
+
