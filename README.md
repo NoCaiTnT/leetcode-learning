@@ -277,12 +277,13 @@
 
 
 ## LeetCode热题100
-1. [字母异位词分组](10.LeetCode热题100/1.字母异位词分组.md) --- leetcode 49 
+1. [字母异位词分组](LeetCode热题100/1.字母异位词分组.md) --- leetcode 49 
     - 用一个长度为26的int数组, 转string, 用map
-2. [最长连续序列](10.LeetCode热题100/2.最长连续序列.md) --- leetcode 128  
+2. [最长连续序列](LeetCode热题100/2.最长连续序列.md) --- leetcode 128  
     - 普通办法: sort, 进阶办法: 不会
-3. [移动零](10.LeetCode热题100/3.移动零.md) --- leetcode 283
+3. [移动零](LeetCode热题100/3.移动零.md) --- leetcode 283
     - 两重遍历
+4. [找到字符串中所有字母异位词](LeetCode热题100/4.找到字符串中所有字母异位词.md) --- leetcode 438 
 
 ## 背包问题模板
 
